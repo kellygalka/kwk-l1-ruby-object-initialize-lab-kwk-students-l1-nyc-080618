@@ -4,4 +4,6 @@ class Peron
     @name=name
   end
   def name
+    @name
+    
 end
