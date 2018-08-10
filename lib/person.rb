@@ -1,5 +1,5 @@
 # person.rb
-class Peron 
+class Person 
   def initialize(name)
     @name=name
   end
