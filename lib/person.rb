@@ -1,4 +1,4 @@
 # person.rb
 class Peron 
-  def initialize
+  def initialize(name)
     
