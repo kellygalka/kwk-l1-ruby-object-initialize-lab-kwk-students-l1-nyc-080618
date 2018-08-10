@@ -5,5 +5,5 @@ class Peron
   end
   def name
     @name
-    
+   end 
 end
